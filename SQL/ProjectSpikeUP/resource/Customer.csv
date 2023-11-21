@@ -1,0 +1,31 @@
+CustomerID,CustomerBirthDate,CustomerCity,CustomerState
+1,2/11/2006,New York,Washington
+2,,Cincinnati,Ohio
+3,11/11/1990,Portland,Oregon
+4,9/11/1993,Seattle,Washington
+5,4/3/1989,Kansas City,Missouri
+6,2/15/1960,Orlando,Florida
+7,,Boston,Massachusetts
+8,6/9/1986,Philadelphia,Pennsylvania
+9,6/15/1953,Richmond,Virginia
+10,7/2/1998,Arlington,Minnesota
+11,9/12/1976,Atlanta,Georgia
+12,2/22/2003,Dallas,Texas
+12,6/18/1950,New Orleans,Louisiana
+14,10/13/1946,Nashville,Tennessee
+15,8/18/1951,Chicago,Illinois
+16,3/31/1961,Denver,Colorado
+17,,Las Vegas,New Jersey
+18,10/20/1985,Phoenix,Arizona
+19,3/9/1981,Los Angeles,California
+20,9/13/1947,San Francisco,California
+21,2/25/1989,New York,Washington
+22,9/14/1900,Cincinnati,Minnesota
+23,6/21/1960,Portland,Oregon
+24,11/16/1972,New York,Washington
+25,8/29/1954,New York,Washington
+25,8/9/1956,Atlanta,Georgia
+27,3/23/1946,Phoenix,Arizona
+28,10/16/1976,Los Angeles,California
+29,10/31/1977,Atlanta,Georgia
+30,,Phoenix,Arizona

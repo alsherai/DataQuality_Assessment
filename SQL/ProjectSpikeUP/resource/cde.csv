@@ -1,0 +1,49 @@
+CDE ID,CDE Name,CDE Description,Table
+D_01,OrderID,The unique identifier of a sales order,Order_Details (PK)
+D_02,OrderDate,The date when a sales order was placed,Order_Details 
+D_03,CustomerID,The unique identifier of a customer,Customer (PK); Order_Details (FK)
+D_04,ProductID,The unique identifier of a product,Product (PK); Order_Details (FK)
+D_05,Quantity,The quantity of product sold within a sales order,Order_Details 
+D_06,ProductName,The full name of a product,Product 
+D_07,ProductCategory,Product category,Product 
+D_08,ListedPrice,The listed sales price of a product,Product 
+D_09,DiscountedPrice,The discounted sales price of a product,Product 
+D_10,CustomerBirthDate,Birthday of the customer,Customer
+D_11,CustomerCity,The city where the customer is based in,Customer
+D_12,CustomerState,The state where the customer is based in,Customer
+D_01,OrderID,The unique identifier of a sales order,Order_Details (PK)
+D_02,OrderDate,The date when a sales order was placed,Order_Details 
+D_03,CustomerID,The unique identifier of a customer,Customer (PK); Order_Details (FK)
+D_04,ProductID,The unique identifier of a product,Product (PK); Order_Details (FK)
+D_05,Quantity,The quantity of product sold within a sales order,Order_Details 
+D_06,ProductName,The full name of a product,Product 
+D_07,ProductCategory,Product category,Product 
+D_08,ListedPrice,The listed sales price of a product,Product 
+D_09,DiscountedPrice,The discounted sales price of a product,Product 
+D_10,CustomerBirthDate,Birthday of the customer,Customer
+D_11,CustomerCity,The city where the customer is based in,Customer
+D_12,CustomerState,The state where the customer is based in,Customer
+D_01,OrderID,The unique identifier of a sales order,Order_Details (PK)
+D_02,OrderDate,The date when a sales order was placed,Order_Details 
+D_03,CustomerID,The unique identifier of a customer,Customer (PK); Order_Details (FK)
+D_04,ProductID,The unique identifier of a product,Product (PK); Order_Details (FK)
+D_05,Quantity,The quantity of product sold within a sales order,Order_Details 
+D_06,ProductName,The full name of a product,Product 
+D_07,ProductCategory,Product category,Product 
+D_08,ListedPrice,The listed sales price of a product,Product 
+D_09,DiscountedPrice,The discounted sales price of a product,Product 
+D_10,CustomerBirthDate,Birthday of the customer,Customer
+D_11,CustomerCity,The city where the customer is based in,Customer
+D_12,CustomerState,The state where the customer is based in,Customer
+D_01,OrderID,The unique identifier of a sales order,Order_Details (PK)
+D_02,OrderDate,The date when a sales order was placed,Order_Details 
+D_03,CustomerID,The unique identifier of a customer,Customer (PK); Order_Details (FK)
+D_04,ProductID,The unique identifier of a product,Product (PK); Order_Details (FK)
+D_05,Quantity,The quantity of product sold within a sales order,Order_Details 
+D_06,ProductName,The full name of a product,Product 
+D_07,ProductCategory,Product category,Product 
+D_08,ListedPrice,The listed sales price of a product,Product 
+D_09,DiscountedPrice,The discounted sales price of a product,Product 
+D_10,CustomerBirthDate,Birthday of the customer,Customer
+D_11,CustomerCity,The city where the customer is based in,Customer
+D_12,CustomerState,The state where the customer is based in,Customer

@@ -1,0 +1,95 @@
+ProductID,ProductName,ProductCategory,ListedPrice,DiscountedPrice
+1,Large Towel,Housekeeping,9,90
+2,Hand Towel,Housekeeping,5,4
+3,Washcloth,Housekeeping,3,2.4
+4,Shampoo,Housekeeping,40,32
+5,Moisturizer,Housekeeping,40,700
+6,Conditioner,Housekeeping,40,32
+7,Hand Soap,Housekeeping,35,28
+7,Bath Soap,Housekeeping,35,28
+9,Tissues,Housekeeping,14,11.2
+10,Toilet Paper,Housekeeping,19,15.2
+11,Shower Cap,Housekeeping,10,8
+12,Bed Sheet (King),,29,23.2
+13,Bed Sheet (Double),Housekeeping,-20,-16
+14,Pillowcase,Housekeeping,15,12
+15,Drinking Glass,Housekeeping,24,192
+16,Mouthwash,Housekeeping,100,32
+17,Clothes Hanger,Housekeeping,18,14.4
+18,Coffee Cup,Housekeeping,24,19.2
+19,Light Bulb,Housekeeping,500,450
+20,Pens,Office Supplies,30,24
+21,Printer Paper,Office Supplies,50,40
+22,Paper Clips,Office Supplies,-3,-2.4
+23,Printer Toner,Office Supplies,85,680
+24,Envelopes (Letter),Office Supplies,24,19.2
+25,Envelopes (Legal),Office Supplies,28,22.4
+25,Envelopes (Catalog),Office Supplies,13,10.4
+27,Invisible Tape,Office Supplies,8,6.4
+28,Staples,Office Supplies,8,6.4
+29,Erasable Markers,Office Supplies,6,4.8
+30,Permanent Markers,Office Supplies,-6,-4.6
+31,Sticky Notes,Office Supplies,20,16
+32,Note Pads,Office Supplies,14,11.2
+33,Towel Rack,Furnishings,10,8
+34,Shower Curtain,Furnishings,5,4
+35,Tissue Box,Furnishings,25,20
+36,Armoire,Furnishings,115,92
+37,Bed (King),Furnishings,300,240
+38,Bed (Double),Furnishings,250,200
+39,Alarm Clock,Furnishings,45,36
+40,Coffee Maker,Furnishings,119,95.2
+41,Office Chair,Furnishings,85,68
+42,Reading Chair,Furnishings,70,56
+43,Table Lamp,Furnishings,380,1000
+43,Floor Lamp,Furnishings,55,44
+45,Computer Desk,Furnishings,102,81.6
+46,Safe,Furnishings,115,92
+47,Swivel Chair,Furnishings,75,200
+48,Side Table,Furnishings,40,32
+49,Large Vase,Furnishings,27,21.6
+50,Small Vase,Furnishings,33,26.4
+51,Painting,Furnitures,85,68
+52,Ironing Board,Furnishings,18,14.4
+53,Iron,Furnishings,20,16
+54,Chest of Drawers,Furnishings,150,120
+22,Television,Furnishings,-900,-400
+56,Telephone,Furnishings,38,30.4
+57,Wireless Router,,70,56
+58,Mirror,Furnishings,85,68
+59,Screws,Maintenance,14,11.2
+60,Portable Drill,,195,156
+61,Tape Measure,Maintenance,8,6.4
+62,Leaf Blower,Maintenance,202,2020
+63,Duct Tape,Maintenance,27,21.6
+64,Gaffer's Tape,Maintenance,27,21.6
+65,Ladder,Maintenance,89,71.2
+66,Wood Glue,Maintenance,21,16.8
+67,Adjustable Wrench,,10,8
+68,Window Screen,Maintenance,30,24
+69,Door Knob,Maintenance,41,32.8
+70,Door Lock,Maintenance,117,93.6
+71,Hammer,Maintenance,17,13.6
+72,Nails,Maintenance,12,9.6
+73,Mop,Maintenance,-2,-12
+74,Large Plant,Public Areas,35,28
+75,Small Plant,,25,20
+76,Ficus,Public Areas,80,64
+77,Large Area Rug,,40,32
+78,Small Area Rug,Public Areas,20,16
+79,Coffee Table,Public Areas,103,824
+80,Poster Stand,Public Areas,27,21.6
+81,Flyer Holder,Public Areas,3,2.4
+82,Business Cards,,60,48
+83,Bar Stool,Public Areas,60,48
+84,Tall Chair,Public Areas,75,60
+85,Low Chair,Public Areas,80,64
+86,Sofa,Public Areas,215,172
+87,End Table,Public Areas,-30,-24
+88,Serving Tray,Public Areas,0.5,4.8
+89,Photograph,Public Areas,45,80
+90,Luggage Cart,Public Areas,138,110.4
+91,Small Sign,,14,11.2
+92,Large Sign,Public Areas,20,36
+93,Terminal,Public Areas,85,68
+94,Monitor,Public Areas,70,56

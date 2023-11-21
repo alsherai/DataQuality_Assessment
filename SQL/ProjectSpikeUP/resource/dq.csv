@@ -1,0 +1,18 @@
+Rule ID,DQ Rule Description,CDE ID,DAMA Dimension,Failing Percentage Threshold
+R_01,The CDE must be populated,All CDEs,Completeness,0%
+R_02,CustomerID must be unique in Customer table,D_03,Uniqueness,0%
+R_03,ProductID must be unique in Product table,D_04,Uniqueness,0%
+R_04,OrderID must be unique in Order_Details table,D_01,Uniqueness,0%
+R_05,ListedPrice of the same product category should fall within ± 2 standard deviations,D_08,Accuracy,5%
+R_06,DiscountedPrice of the same product category should fall within ± 2 standard deviations,D_09,Accuracy,5%
+R_07,Total Quantity of sales per month should fall within ± 3 standard deviations,D_05,Accuracy,5%
+R_08,CustomerBirthDate should not be less than 18 years or more than 120 years from now,D_10,Validity,5%
+R_09,OrderDate cannot be a date in the future,D_02,Validity,5%
+R_10,DiscountedPrice cannot be a negative value,D_09,Validity,5%
+R_11,ListedPrice cannot be a negative value,D_08,Validity,5%
+R_12,Quantity cannot be a negative value,D_05,Validity,5%
+R_13,"CustomerCity should be populated based on a pre-specfied list of strings ['Atlanta', 'Boston', 'Chicago', 'Dallas', 'Denver', 'Las Vegas', 'Los Angeles', 'Nashville', 'New York', 'Orlando', 'Philadelphia', 'Phoenix', 'Portland', 'Richmond', 'San Francisco', 'Seattle']",D_11,Validity,5%
+R_14,"CustomerState should be populated based on a pre-specfied list of strings ['Arizona', 'California', 'Colorado', 'Florida', 'Georgia', 'Illinois', 'Massachusetts', 'Nevada', 'New York', 'Oregon', 'Pennsylvania', 'Tennessee', 'Texas', 'Virginia', 'Washington']",D_12,Validity,0%
+R_15,"ProductCategory should be populated based on a pre-specfied list of strings ['Housekeeping', 'Office Supplies', 'Furnishings', 'Maintenance', 'Public Areas']",D_07,Validity,0%
+R_16,DiscountedPrice cannot be higher than ListedPrice for one specific product,D_08; D_09,Consistency,5%
+R_17,CustomerCity should be consistent with CustomerState for one specfic customer,D_11; D_12,Consistency,5%
